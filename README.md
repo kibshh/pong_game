@@ -1,5 +1,7 @@
 # Pong Game in Python
 
+![Pong Game](screenshot/pong_game_screenshot.png)
+
 ## Overview
 
 This project is a basic implementation of the classic Pong game using Python and the Turtle graphics library. The game includes two paddles, a bouncing ball, and a scoring system. It's a simple and fun way to explore game development concepts in Python.
